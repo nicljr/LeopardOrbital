@@ -31,6 +31,16 @@ Our web application is meant to track and monitor productivity. The web applicat
 3. Users will be able to place virtual sticky notes on timings, helping them to jot down on what to prepare (questions to ask, which tutorials to complete, etc.)
 4. The reminders will ping them with a vibration and notification even during the respective stages of the Pomodoro Timer.
 
+## Interface
+
+### Login Page
+
+The web app is implemented with a login page that utilised Firebase by Google.
+
+### Dashboard
+
+The dashboard of the web app is where you will be able to see your tasks, sticky notes and the Pomodoro Timers all at one compact place.
+
 ## Dependencies
 - React
 - Firebase
