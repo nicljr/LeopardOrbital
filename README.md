@@ -1,10 +1,12 @@
 # Productive Monsters
 
+
 ## About
 
 A project created for Orbital Cohort 2022 by Lim Jian Rong, Nicholas & Seah Zhi Han Mervyn.
 
 This build was tested on a Windows 11 and Windows 10 machine.
+
 
 ## Motivation
 
@@ -12,9 +14,11 @@ As students, we often find ourselves struggling to main our focus. Adopting stud
 
 Furthermore, students have busy schedules, having to keep track of different deadlines and assignments across their multiple modules. Additionally, some students also pursue external activities, interests and projects, contributing to their workload. 
 
+
 ## Pomodoro Technique
 
 The Pomodoro Technique is a time management system developedd by Franceso Cirillo in the late 1980s. The technique involves working for 25 minutes and resting for 5 minutes (ONE Pomodoro). Upon the completion of 4 Pomodoros, take a longer break of 15 to 20 minutes.
+
 
 ## Functionality
 
@@ -31,6 +35,7 @@ Our web application is meant to track and monitor productivity. The web applicat
 3. Users will be able to place virtual sticky notes on timings, helping them to jot down on what to prepare (questions to ask, which tutorials to complete, etc.)
 4. The reminders will ping them with a vibration and notification even during the respective stages of the Pomodoro Timer.
 
+
 ## Interface
 
 ### Login Page
@@ -40,6 +45,7 @@ The web app is implemented with a login page that utilised Firebase by Google.
 ### Dashboard
 
 The dashboard of the web app is where you will be able to see your tasks, sticky notes and the Pomodoro Timers all at one compact place.
+
 
 ## Dependencies
 - React
