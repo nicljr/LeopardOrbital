@@ -26,7 +26,8 @@ Furthermore, students have busy schedules, having to keep track of different dea
 
 ## Desired Outcome
 
-Though the web app is created with students (NUS students particularly) in mind, other students of different academic level or universities, as well as adults, can utilise the app to maximise their productivity. The ease of being able to continue in your Pomodoro Technique stage without having to manually switch between timers allows users to maintain momentum as additional quality of life.
+Though the web app is created with students (NUS students particularly) in mind, other students of different academic level or universities, as well as adults, can utilise the app to maximise their productivity. The ease of being able to continue in your Pomodoro Technique stage without having to manually switch between timers allows users to maintain momentum, benefititing from this increased quality of life.
+
 
 ## Functionality
 
