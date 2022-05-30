@@ -58,7 +58,7 @@ By Milestone 1:
 Users will be able to Login into the Application at least by Milestone 1
 
 Progress: We only got the Login Page with FireBase Authentication Up and a Main Menu with nothing inside yet. 
-We are currently still designing the Buttons and Headers with MUI (Material UI) and how we can put it on our Main Menu as we run into a lot of bugs with MUI. [Video Link](https://drive.google.com/file/d/1HzdzxDYUXQxmYw7TCRHSaplJ8exUkde-/view?usp=sharing).
+We are currently still designing the Buttons and Headers with MUI (Material UI) and how we can put it on our Main Menu as we run into a lot of bugs with MUI. 
 
 By Milestone 2:
 -	Main Menu Page can be accessed after Logging in
@@ -71,6 +71,12 @@ By MileStone 3:
 
 By Milestone 4:
 -	The web application will be able to fully run without hicks, with different designs to make the application appealing to the users.
+
+
+## Testing
+
+### Milestone 1
+[Proof of Concept Video Link](https://drive.google.com/file/d/1HzdzxDYUXQxmYw7TCRHSaplJ8exUkde-/view?usp=sharing).
 
 
 ## Interface
