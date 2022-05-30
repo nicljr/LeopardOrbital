@@ -29,6 +29,7 @@ Furthermore, students have busy schedules, having to keep track of different dea
 
 Though the web app is created with students (NUS students particularly) in mind, other students of different academic level or universities, as well as adults, can utilise the app to maximise their productivity. The ease of being able to continue in your Pomodoro Technique stage without having to manually switch between timers allows users to maintain momentum as additional quality of life.
 
+
 ## Functionality
 
 Our web application is meant to track and monitor productivity. The web application also aims to help students to closesly monitor all their modules' respective assignments and dealines.
@@ -41,13 +42,13 @@ Our web application is meant to track and monitor productivity. The web applicat
 
 Originally we tried to implement Monster Hatching and Collection with the Pomodoro Timer Feature, this was meant to incorporate a gamified and competitive element to the users, however we thought it will take too much time to design a satisfactory amount of different monsters for the users to collect and compare with the different users. Hence we decided to scrap the Monster Hatching Element. However we are looking at some sort of Reward System implemented into our application, like Medals which is easier to implement compared to monsters given the timeframe.
 
-
 ### Calendar Planner
 
 1.	As a User will be able to input their different modules, and its respective lecture and tutorial timings to keep track of their schedules
 2.	As a User, will be able to key in reminders for the different deadlines of their assignments to help users keep track and meet their deadlines. (The reminders will ping them with a vibration and notification even during the respective stages of the Pomodoro Technique.)
 
 We are looking at a simple Calendar Planner that users can use. Not only can they keept track of their lecture and tutorial timings, it would be good to have Reminders on their Calenders to remind users about their various deadlines to meet. NUSMods lacks the reminders function which we hope to implement.
+
 
 ## Timeline
 The web application will provide a timer system for any user (students, working adults, etc) to focus on required tasks & allow them to track their mindfulness and productivity
@@ -57,7 +58,7 @@ By Milestone 1:
 Users will be able to Login into the Application at least by Milestone 1
 
 Progress: We only got the Login Page with FireBase Authentication Up and a Main Menu with nothing inside yet. 
-We are currently still designing the Buttons and Headers with MUI (Material UI) and how we can put it on our Main Menu as we run into a lot of bugs with MUI.
+We are currently still designing the Buttons and Headers with MUI (Material UI) and how we can put it on our Main Menu as we run into a lot of bugs with MUI. [Video Link](https://drive.google.com/file/d/1HzdzxDYUXQxmYw7TCRHSaplJ8exUkde-/view?usp=sharing).
 
 By Milestone 2:
 -	Main Menu Page can be accessed after Logging in
