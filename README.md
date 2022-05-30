@@ -12,6 +12,11 @@ A project created for Orbital Cohort 2022.
 This build was tested on a Windows 11 and Windows 10 machine.
 
 
+## Pomodoro Technique
+
+The Pomodoro Technique is a time management system developedd by Franceso Cirillo in the late 1980s. The technique involves working for 25 minutes and resting for 5 minutes (ONE Pomodoro). Upon the completion of 4 Pomodoros, take a longer break of 15 to 20 minutes.
+
+
 ## Motivation
 
 As students, we often find ourselves struggling to main our focus. Adopting study and productivity methods such as the Pomodoro technique can be cumbersome, having to change our timers from 25 minutes to 5 minutes then back to 25 minutes. After hours of studying, we might also lose track of how many cycles we have completed, potentially missing a longer break.
@@ -19,10 +24,9 @@ As students, we often find ourselves struggling to main our focus. Adopting stud
 Furthermore, students have busy schedules, having to keep track of different deadlines and assignments across their multiple modules. Additionally, some students also pursue external activities, interests and projects, contributing to their workload. 
 
 
-## Pomodoro Technique
+## Desired Outcome
 
-The Pomodoro Technique is a time management system developedd by Franceso Cirillo in the late 1980s. The technique involves working for 25 minutes and resting for 5 minutes (ONE Pomodoro). Upon the completion of 4 Pomodoros, take a longer break of 15 to 20 minutes.
-
+Though the web app is created with students (NUS students particularly) in mind, other students of different academic level or universities, as well as adults, can utilise the app to maximise their productivity. The ease of being able to continue in your Pomodoro Technique stage without having to manually switch between timers allows users to maintain momentum as additional quality of life.
 
 ## Functionality
 
@@ -69,6 +73,18 @@ The web app is implemented with a login page that utilised Firebase by Google.
 
 The dashboard of the web app is where you will be able to see your tasks, sticky notes and the Pomodoro Timers all at one compact place.
 
+
+## User Roles
+
+There are 3 user roles -- public and member users.
+
+### Public
+
+Public users will be able to utilise the Pomodoro Timer to track and increase their productivity. Public users are also able to edit their display name.
+
+### Member
+
+On top of the Pomodoro Timer function, Members will be able to log in using Google Authentication to keep track of their past timers. Members are also able to create tasks and sticky notes which can sync across devices (as long as they are logged in).
 
 
 ## Tech Stack
