@@ -87,6 +87,105 @@ Public users will be able to utilise the Pomodoro Timer to track and increase th
 On top of the Pomodoro Timer function, Members will be able to log in using Google Authentication to keep track of their past timers. Members are also able to create tasks and sticky notes which can sync across devices (as long as they are logged in).
 
 
+## Project Log
+Project Log
+
+S/N
+Task
+Date
+Orbitee 1 (hrs)
+Orbitee 2 (hrs)
+Remarks
+1
+Team Meeting: Confirmation & Ideation
+11/05/22
+5
+5
+Compared to previous years, this year, our liftoff and meetings are all held virtually.
+
+Since it has been a while since we last discussed on the project, our objective of this meeting are:
+1. The confirmation of our Orbital’s Project Idea
+2. Laying out the full idea of the project and technology required
+3. Delegating of roles
+2
+Meeting with Adviser
+13/05/22
+5
+5
+We did an online zoom meeting with our adviser as our first “formal” meeting. It mainly touches on clarification of our project proposal and what to be expected for Milestone I.
+
+
+3
+Poster & Video submission
+15/05/20
+6
+6
+We worked on the designing of posters as well as voice over video for our Poster/Video submission for Orbital Liftoff.
+4
+Team Meeting:
+Refinement & Idea Modification
+17/5/20
+2
+2
+Had an online zoom meeting and discussed what was said during our meeting with our Adviser and made the necessary changes to our proposal and scaled-down our application features-wise. 
+
+We also decided to switch our Application to be designed for Web instead of Mobile Phones,
+5
+Team Meeting: 
+Refinement and further research
+17/5/20
+4
+4
+We did an After-Action Review after discussion with our adviser. 
+We understood what was expected for milestone 1; hence we further delegated the tasks for Milestone I.
+6
+Self-Studying 
+20/5/20
+2
+2
+Both did self-studying on Pomodoro Timer and Calendar Applications that are available.
+7
+Self-Studying + Team Meeting +  Slight programming
+22/5/20
+6
+6
+Both watched the Mission Control Parts 1 and 2 for React JS Workshops
+
+Did some programming where we played with the MUI (Material UI) to see the different possible designs
+8
+Web Programming
+26/5/20
+6
+2
+1.Set up the Firebase
+2. Coded the Firebase Authentication 
+9
+Web Programming
+28/5/20
+2
+6
+1.Set up login page with Firebase Authentication 
+2.Debugging (ran into a lot of bugs, had to do a lot of debugging)
+10
+Team Meeting
+29/5/20
+5
+5
+1. Meeting to discuss what functionalities we can extend and remove
+2.Change our timeline on what needs to be completed in our web application
+3.Milestone 1 Video
+
+
+
+
+
+
+43
+43
+Total: 86
+
+
+
 ## Tech Stack
 
 - React JS (FrontEnd)
