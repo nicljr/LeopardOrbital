@@ -5,6 +5,7 @@
 
 A project created for Orbital Cohort 2022.
 - Team Name: LEOPARD
+- Team Code: 5158
 - Members: Lim Jian Rong, Nicholas & Seah Zhi Han Mervyn
 - Project Level: Apollo 11
 - Adviser: Koh Vinleon
