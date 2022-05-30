@@ -68,13 +68,15 @@ The dashboard of the web app is where you will be able to see your tasks, sticky
 
 
 ## Tech Stack
-React JS (FrontEnd)
-Node JS (BackEnd)
-FireBase (Databse)
+
+- React JS (FrontEnd)
+- Node JS (BackEnd)
+- FireBase (Databse)
 
 
 
 ## Dependencies
+
 - React
 - Firebase
 - MUI
