@@ -3,7 +3,11 @@
 
 ## About
 
-A project created for Orbital Cohort 2022 by Lim Jian Rong, Nicholas & Seah Zhi Han Mervyn.
+A project created for Orbital Cohort 2022.
+- Team Name: LEOPARD
+- Members: Lim Jian Rong, Nicholas & Seah Zhi Han Mervyn
+- Project Level: Apollo 11
+- Adviser: Koh Vinleon
 
 This build was tested on a Windows 11 and Windows 10 machine.
 
