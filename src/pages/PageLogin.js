@@ -7,11 +7,11 @@ function PageLogin() {
     return ( <
         >
         <
-        h1 > Login < /h1>   <
+        h1 > GetEfficient < /h1>    <
         Button variant = "contained"
         color = "primary"
         onClick = { signInWithGoogle } >
-        Sign in with Google < /Button>  <
+        Sign in with Google < /Button>   <
         />
     );
 }

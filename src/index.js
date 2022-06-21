@@ -16,6 +16,6 @@ root.render( <
     <
     App / >
     <
-    /ProvideAuth>     <
+    /ProvideAuth>       <
     /React.StrictMode>
 );
