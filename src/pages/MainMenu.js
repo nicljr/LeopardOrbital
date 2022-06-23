@@ -1,15 +1,16 @@
 import Button from "@mui/material/Button";
 import Navbar from "../components/Navbar";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import React, { useEffect } from "react";
+
 import "./MainMenu.module.css";
 import RedirectPage from "./RedirectPage";
+import Pomodoro from "./Pomodoro";
 
 function MainMenu() {
 
-    return (
-
-        <
+    return ( <
         >
         <
         main >
@@ -20,50 +21,34 @@ function MainMenu() {
 
         <
         Router >
+
         <
         Navbar / >
+
         <
         Routes >
+
+        <
+        Route exact path = "/pomodoro"
+        element = { < Pomodoro / > }
+        />
+
         <
         Route path = "/lofi"
-        element = { < RedirectPage site = "https://www.lofi.cafe/" / > }
+        exact element = { < RedirectPage site = "https://www.lofi.cafe/" / > }
         />
 
         <
         Route path = "/nusmods"
-        element = { < RedirectPage site = "https://nusmods.com/" / > }
+        exact element = { < RedirectPage site = "https://nusmods.com/" / > }
         />
 
         <
-        /Routes>    < /
-        Router >
+        /Routes>  
 
         <
-        div className = "content" >
-
-
-        <
-        h1 > Main Menu < /h1>   <
-        Button type = "submit"
-        variant = "contained"
-        color = "primary"
-        size = "large" >
-        Pomodoro Timer < /Button>
-
-        <
-        Button type = "submit"
-        variant = "contained"
-        color = "primary"
-        size = "large" >
-        Calender Planner <
-        /Button>
-
-
-        <
-        /div>    
-
-        <
-        /main>    
+        /Router >         < /
+        main >
 
         <
         />
