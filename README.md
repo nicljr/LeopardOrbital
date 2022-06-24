@@ -15,7 +15,7 @@ This build was tested on a Windows 11 and Windows 10 machine.
 
 ## Pomodoro Technique
 
-The Pomodoro Technique is a time management system developedd by Franceso Cirillo in the late 1980s. The technique involves working for 25 minutes and resting for 5 minutes (ONE Pomodoro). Upon the completion of 4 Pomodoros, take a longer break of 15 to 20 minutes.
+The Pomodoro Technique is a time management system developedd by Franceso Cirillo in the late 1980s. The technique involves working for 25 minutes and resting for 5 minutes (ONE Pomodoro). 
 
 
 ## Motivation
