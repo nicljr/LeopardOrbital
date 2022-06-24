@@ -107,7 +107,7 @@ On top of the Pomodoro Timer function, Members will be able to log in using Goog
 
 - React JS (FrontEnd)
 - Node JS (BackEnd)
-- FireBase (Databse)
+- FireBase (Database)
 
 
 
