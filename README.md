@@ -53,13 +53,6 @@ We are looking at a simple Calendar Planner that users can use. Not only can the
 ## System Design
 
 ```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
-```mermaid
 graph TD
 A[Users] -- Users register with Google via Firebase --> B
 
