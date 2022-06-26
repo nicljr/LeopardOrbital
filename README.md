@@ -120,10 +120,11 @@ By Milestone 4:
 ## Testing
 
 ### Milestone 1
-[Proof of Concept Video Link](https://drive.google.com/file/d/1HzdzxDYUXQxmYw7TCRHSaplJ8exUkde-/view?usp=sharing).
+[Proof of Concept Video Link](https://drive.google.com/file/d/1HzdzxDYUXQxmYw7TCRHSaplJ8exUkde-/view?usp=sharing)
 
 ### Milestone 2
-[Poster](https://drive.google.com/file/d/1nqIEq6jAGFI3i_JJqJd2kb6pkN137_hG/view?usp=sharing).
+[Poster](https://drive.google.com/file/d/1nqIEq6jAGFI3i_JJqJd2kb6pkN137_hG/view?usp=sharing)
+
 [Video]() 
 
 
