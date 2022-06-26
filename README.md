@@ -123,7 +123,7 @@ By Milestone 4:
 [Proof of Concept Video Link](https://drive.google.com/file/d/1HzdzxDYUXQxmYw7TCRHSaplJ8exUkde-/view?usp=sharing)
 
 ### Milestone 2
-[Poster Link](https://drive.google.com/file/d/1nqIEq6jAGFI3i_JJqJd2kb6pkN137_hG/view?usp=sharing) & [Video Link]() 
+[Poster Link](https://drive.google.com/file/d/1nqIEq6jAGFI3i_JJqJd2kb6pkN137_hG/view?usp=sharing) & [Video Link](https://drive.google.com/file/d/1d9-sfpvOJLDMpGEmc6kocC6SVdVgCyck/view?usp=sharing) 
 
 
 ## Interface
