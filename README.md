@@ -50,7 +50,58 @@ Originally we tried to implement Monster Hatching and Collection with the Pomodo
 We are looking at a simple Calendar Planner that users can use. Not only can they keept track of their lecture and tutorial timings, it would be good to have Reminders on their Calenders to remind users about their various deadlines to meet. NUSMods lacks the reminders function which we hope to implement.
 
 
+## System Design
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
+```mermaid
+graph TD
+A[Users] -- Users register with Google via Firebase --> B
+
+subgraph Application
+B[+ Browser Router<br>+Firebase Authentication Hooks<br>- Application dissected into 3 main pages<br>-Usage of BrowserRouter to interchange between the different pages]
+end
+
+subgraph Navigation Bar
+C[<Component><br>- Have the paths for interchanging the different functions]
+end
+
+D((User Interface))
+B--> D
+C--> D
+
+subgraph Main Menu
+E[<pages><br>Components: Navigation Bar]
+end
+D--> E
+
+subgraph Pomodoro Timer
+F[<pages><br>Components: Navigation Bar]
+end
+D--> F
+
+subgraph Calendar Planner
+G[<pages><br>Components: Navigation Bar]
+end
+D--> G
+
+subgraph Firebase, Database
+H[- Login/Logout: Authentication Hooks<br>- Firestore, store Login Information as well as Calendar details of users]
+end
+
+B -- User's Google login credentials will be stored in the project's designated Firebase --> H
+
+G -- User's Calendar Plans will be stored into Firestore, NoSQL Document Database --> H
+```
+
+
 ## Timeline
+
 The web application will provide a timer system for any user (students, working adults, etc) to focus on required tasks & allow them to track their mindfulness and productivity
 
 By Milestone 1:
@@ -77,6 +128,10 @@ By Milestone 4:
 
 ### Milestone 1
 [Proof of Concept Video Link](https://drive.google.com/file/d/1HzdzxDYUXQxmYw7TCRHSaplJ8exUkde-/view?usp=sharing).
+
+### Milestone 2
+[Poster](https://drive.google.com/file/d/1nqIEq6jAGFI3i_JJqJd2kb6pkN137_hG/view?usp=sharing)
+[Video]() 
 
 
 ## Interface
