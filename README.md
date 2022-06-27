@@ -122,8 +122,39 @@ By Milestone 4:
 ### Milestone 1
 [Proof of Concept Video Link](https://drive.google.com/file/d/1HzdzxDYUXQxmYw7TCRHSaplJ8exUkde-/view?usp=sharing)
 
-### Milestone 2
+### Milestone 2 -- Prototyping
 [Poster Link](https://drive.google.com/file/d/1nqIEq6jAGFI3i_JJqJd2kb6pkN137_hG/view?usp=sharing) & [Video Link](https://drive.google.com/file/d/1d9-sfpvOJLDMpGEmc6kocC6SVdVgCyck/view?usp=sharing) 
+
+#### Core Features Developed
+- Main function of the Pomodoro Timer developed and working, with small adjustments to allow user to customise their Pomodoro Technique timings (ie. duration of work and duration of rest)
+- Implementation of Material User Interface (MUI)
+- Implementation of top bar & side tool bar (navigation bar)
+- Background lo-fi music player
+- Redirect function to NUSMods
+
+#### Work in Progress
+- Calendar planner 
+- Log out functionality
+
+#### Testing
+- Unit testing of individual functions
+- Integration testing of UI along with its functions
+
+#### Evaluation of Testing Results
+- Primary function, timer, is working fine
+- Tested previous features while new features were being added
+- Ensure functions work together
+- Verify usabiltiy and visibility of the user interface
+
+#### Interpretation of Feedback
+- Timer is hardly visible
+- Main menu looks empty
+- Calendar planner not working as intended to
+
+#### Future Plans
+- Exploring ways to improve the timer's visibility, from increasing its size or introducing a drop shadow to create contrast with the background
+- Small tidbits such as motivational quotes or cat fact of the day can be introduced into the main menu to make it look less empty
+- Make the calendar palnner work
 
 
 ## Interface
