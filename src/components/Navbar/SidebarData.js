@@ -34,10 +34,4 @@ export const SidebarData = [{
         icon: < BsFillBookFill / > ,
         cName: "nav-text"
     },
-    {
-        title: 'Logout',
-        path: "/logout",
-        icon: < BiLogOut / > ,
-        cName: "nav-text"
-    },
 ]
