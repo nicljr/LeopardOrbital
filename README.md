@@ -48,13 +48,15 @@ Although the Timer was created with the Pomodoro Technique in mind, we have allo
 
 Originally we tried to implement Monster Hatching and Collection with the Pomodoro Timer Feature, this was meant to incorporate a gamified and competitive element to the users, however we thought it will take too much time to design a satisfactory amount of different monsters for the users to collect and compare with the different users. Hence we decided to scrap the Monster Hatching Element. However we are looking at some sort of Reward System implemented into our application, like Medals which is easier to implement compared to monsters given the timeframe.
 
+### Calendar Planner
+
+A calendar application that allows users to view their schedule based on different month / week / day / agenda. 
+
+We initially wanted to implement a Calendar Planner functionality to incorporate NUSMods to allow accessibility and for users to be ahead of their schedules. However, we have since scrapped that portiion as a functionality as NUSMods is exclusive to NUS students and does not appeal to the entirety of our target audience.
+
 ### Lofi Music & NUSMods
 
 A simple redirection to allow users to access websites that they commonly visit. The choice of Lofi Music was done as most students this generation has been a common genre of music for students to listen to while studying.
-
-### Calendar Planner
-
-We initially wanted to implement a Calendar Planner functionality that would incorporate NUSMods to allow accessibility and for users to be ahead of their schedules. However, we have since scrapped that functionality as NUSMods is exclusive to NUS students and does not appeal to the entirety of our target audience.
 
 
 ## System Design
