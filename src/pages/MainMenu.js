@@ -7,6 +7,7 @@ import React, { useEffect } from "react";
 import "./MainMenu.module.css";
 import RedirectPage from "./RedirectPage";
 import Pomodoro from "./Pomodoro";
+import Schedule from "./Schedule";
 
 function MainMenu() {
 
@@ -34,6 +35,11 @@ function MainMenu() {
         />
 
         <
+        Route exact path = "/calendar"
+        element = { < Schedule / > }
+        />
+
+        <
         Route path = "/lofi"
         exact element = { < RedirectPage site = "https://www.lofi.cafe/" / > }
         />
@@ -47,7 +53,7 @@ function MainMenu() {
         /Routes>  
 
         <
-        /Router >         < /
+        /Router>          < /
         main >
 
         <

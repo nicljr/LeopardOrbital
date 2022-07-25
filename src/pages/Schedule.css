@@ -1,0 +1,10 @@
+.Schedule {
+    text-align: center;
+    background-color: #fff;
+}
+
+.box {
+    width: 100%;
+    background: #fff;
+    /*background:#fff; use here white background */
+}
