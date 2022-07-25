@@ -7,7 +7,7 @@ A project created for Orbital Cohort 2022.
 - Team Name: LEOPARD
 - Team Code: 5158
 - Members: Lim Jian Rong, Nicholas & Seah Zhi Han Mervyn
-- Project Level: Apollo 11
+- Project Level: Gemini (Intermediate) 
 - Adviser: Koh Vinleon
 
 This build was tested on a Windows 11 and Windows 10 machine.
@@ -27,7 +27,13 @@ Furthermore, students have busy schedules, having to keep track of different dea
 
 ## Desired Outcome
 
-Though the web app is created with students (NUS students particularly) in mind, other students of different academic level or universities, as well as adults, can utilise the app to maximise their productivity. The ease of being able to continue in your Pomodoro Technique stage without having to manually switch between timers allows users to maintain momentum as additional quality of life.
+Though the web app is created with students in mind, other students of different academic level or universities, as well as adults, can utilise the app to maximise their productivity. The ease of being able to continue in your Pomodoro Technique stage without having to manually switch between timers allows users to maintain momentum as additional quality of life.
+
+
+## User Stories
+
+1. As a user, I want to be able to set a customised timer based on how long I want my productive sessions to be.
+2. As a user, I want to be able to have a place to track and monitor my productivity.
 
 
 ## Functionality
@@ -36,18 +42,19 @@ Our web application is meant to track and monitor productivity. The web applicat
 
 ### Pomodoro Timer
 
-1.	As a User can set a timer according to the respective stage of the Pomodoro technique to immerse themselves in the studying technique
-2.	As a User, once the timer is set, he will NOT be able to leave the application (to ensure mindfulness & productivity) to ensure the user is not distracted.
-3.	As a user, once the timer is set, his notifications will be disabled as well to ensure that the user is not distracted during the stage of Pomodoro technique
+Users can set a timer according to the respective stage of the Pomodoro technique to immerse themselves in the studying technique
+
+Although the Timer was created with the Pomodoro Technique in mind, we have allowed the user the flexibility to set any duration (in minutes) for their productive and break cycles. This was done as different users work differently, often some wanting to have a longer work time and shorter rest time, etc. 
 
 Originally we tried to implement Monster Hatching and Collection with the Pomodoro Timer Feature, this was meant to incorporate a gamified and competitive element to the users, however we thought it will take too much time to design a satisfactory amount of different monsters for the users to collect and compare with the different users. Hence we decided to scrap the Monster Hatching Element. However we are looking at some sort of Reward System implemented into our application, like Medals which is easier to implement compared to monsters given the timeframe.
 
+### Lofi Music & NUSMods
+
+A simple redirection to allow users to access websites that they commonly visit. The choice of Lofi Music was done as most students this generation has been a common genre of music for students to listen to while studying.
+
 ### Calendar Planner
 
-1.	As a User will be able to input their different modules, and its respective lecture and tutorial timings to keep track of their schedules
-2.	As a User, will be able to key in reminders for the different deadlines of their assignments to help users keep track and meet their deadlines. (The reminders will ping them with a vibration and notification even during the respective stages of the Pomodoro Technique.)
-
-We are looking at a simple Calendar Planner that users can use. Not only can they keept track of their lecture and tutorial timings, it would be good to have Reminders on their Calenders to remind users about their various deadlines to meet. NUSMods lacks the reminders function which we hope to implement.
+We initially wanted to implement a Calendar Planner functionality that would incorporate NUSMods to allow accessibility and for users to be ahead of their schedules. However, we have since scrapped that functionality as NUSMods is exclusive to NUS students and does not appeal to the entirety of our target audience.
 
 
 ## System Design
